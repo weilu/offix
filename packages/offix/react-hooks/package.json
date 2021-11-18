@@ -48,11 +48,10 @@
     "typescript": "3.9.7"
   },
   "dependencies": {
-    "offix-client": "0.15.5",
-    "react": "16.13.1"
+    "offix-client": "0.15.5"
   },
   "peerDependencies": {
     "graphql": "^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0",
-    "react": "16.13.1"
+    "react": "16.x || 17.x"
   }
 }
